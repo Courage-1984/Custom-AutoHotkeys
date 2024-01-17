@@ -5,5 +5,5 @@ Custom AutoHotkeys for efficiency / productivity.
 
 "Minimize" = Shift+Z - Minimize Window
 
-F6 = Ctrl+` - Browser Focus Address Bar
+"F6" = Ctrl+` - Browser Focus Address Bar
 
