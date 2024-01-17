@@ -1,7 +1,7 @@
 # Custom-AutoHotkeys
 Custom AutoHotkeys for efficiency / productivity.
 
-"F4" = Alt+` - Close Window
+"Alt+F4" = Alt+` - Close Window
 
 "Minimize" = Shift+Z - Minimize Window
 
