@@ -5,11 +5,27 @@ Look in the repo above for the ahk keys.
 
 They do the following:
 
-"AltF4" = "Alt+`" = Close Window
+"AltF4" = "Alt + `" = Close Window
 
-"Minimize" = "Shift+Z" = Minimize Window
+"Minimize" = "Shift + Z" = Minimize Window
 
-"F6" = "Ctrl+`" = Browser Focus Address Bar
+"F6" = "Ctrl + `" = Browser Focus Address Bar
+
+For "windowahk.ahk" you can do the above plus the following:
+
+"Win + WheelUp/WheelDown" = Changes window transparencies
+
+"Win + o" = Reset Transparency Settings
+
+"Win + G" = Show the current transparency settings of the window under the mouse
+
+"Win + T" = Hide/Show taskbar
+
+"Win + H" = Hide Titlebar
+
+"Win + S" = Show Titlebar
+
+Look into "Single Tiling.ahk" for what it could do.
 
 ***
 ## Next Steps:
